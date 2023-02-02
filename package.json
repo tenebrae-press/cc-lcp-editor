@@ -13,7 +13,7 @@
     "axios": "^0.25.0",
     "core-js": "^3.6.5",
     "file-saver": "^2.0.5",
-    "jszip": "^3.7.1",
+    "jszip": "^3.8.0",
     "lancer-data": "^3.0.42",
     "lodash": "^4.17.21",
     "promisify-file-reader": "^4.1.0",
